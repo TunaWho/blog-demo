@@ -1,6 +1,7 @@
 # Vue 2 + Vite
 
 # Link Demo
+https://blog-demo2.netlify.app/
 
 ## Recommended IDE Setup
 
