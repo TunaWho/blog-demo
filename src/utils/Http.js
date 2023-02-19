@@ -1,7 +1,7 @@
 import axios from 'axios';
 import codeResponse from '@/utils/codeResponse';
 
-const APP_API_URL = import.meta.env.VITE_BASE_API_URL;
+const APP_API_URL = 'https://5f55a98f39221c00167fb11a.mockapi.io';
 const DEFAULT_CONFIG = {
   baseURL: APP_API_URL,
   headers: {
